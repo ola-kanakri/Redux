@@ -1,0 +1,11 @@
+{
+    "books":[
+        {"id":1, "title": "Learn React", "description": "Learn React from scratch", "price":30},
+        {"id":2, "title": "Learn C++", "description": "Learn C++ from scratch", "price":40},
+        {"id":3, "title": "Learn C#", "description": "Learn C# from scratch", "price":50},
+        {"id":4, "title": "Learn Oracle", "description": "Learn Oracle from scratch", "price":60},
+        {"id":5, "title": "Learn SQL", "description": "Learn SQL from scratch", "price":70},
+        {"id":6, "title": "Learn JavaScript", "description": "Learn JavaScript from scratch", "price":90},
+        {"id":7, "title": "Learn PHP", "description": "Learn PHP from scratch", "price":80}
+    ]
+} 
